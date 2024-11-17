@@ -100,7 +100,7 @@ Farmstory 프로젝트에 기여하고 싶으신 분은 다음 단계를 따라�
 
 ## 📫 문의하기
 Farmstory 프로젝트에 대해 궁금한 점이 있으시면 언제든지 연락해 주세요!
-- **Email**: your_email@example.com
+- **Email**: hajhi7899@gmail.com
 - **GitHub Issues**: [문의 및 버그 리포트](https://github.com/your-repo/issues)
 
 ---
